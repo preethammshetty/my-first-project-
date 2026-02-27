@@ -1,3 +1,3 @@
 Python
 
-print("Hello GitHub")
+print("Hello GitHub, Learning daily")
