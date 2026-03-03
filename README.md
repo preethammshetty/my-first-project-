@@ -12,3 +12,6 @@ I created this while learning GitHub and programming.
 ## Updates
 - Day 1: Created repository and first file
 - Day 2: Added new practice file
+## Status
+This is a beginner practice project.
+I will keep improving it.
